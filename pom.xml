@@ -15,6 +15,7 @@
         <module>spring-datajpa-postgresql</module>
         <module>spring-datajpa-postgresql</module>
         <module>spring-boot-api-doc</module>
+        <module>spring-boot-rabbitmq</module>
     </modules>
 
     <properties>
